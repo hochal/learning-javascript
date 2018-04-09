@@ -12,4 +12,8 @@ node_modules
 *~
 
 # IDE 파일
-.idea/*
+.idea/
+
+# 자동생성되는 ES5파일
+dist/
+public/dist/
