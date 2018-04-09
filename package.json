@@ -1,0 +1,26 @@
+{
+  "name": "learning-javascript",
+  "version": "1.0.0",
+  "description": "교재 실습용",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hochal/learning-javascript.git"
+  },
+  "keywords": [
+    "learning",
+    "script"
+  ],
+  "author": "yang hochul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hochal/learning-javascript/issues"
+  },
+  "homepage": "https://github.com/hochal/learning-javascript#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
